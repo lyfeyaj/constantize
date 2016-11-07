@@ -1,0 +1,2 @@
+# constantize
+Constantize string
